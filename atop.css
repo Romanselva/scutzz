@@ -1,0 +1,48 @@
+.atopbody{
+    top: 0;
+    margin: 0;
+    background-color:  #2980b9;
+   
+}
+.admintop{
+    background-color:  #2980b9;
+}
+
+.alogo1{
+   font-size: 30px;
+   font-weight:normal;
+   
+}
+.alogo2{
+  font-size: 22px;
+  font-weight: normal;
+  
+}
+.atoplogo{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  
+  box-sizing: border-box;
+  box-shadow: 7px 7px 10px #054488,-7px -7px 10px #4f9bf1;
+
+}
+.atoplogout{
+    font-size: 34px;
+    color: rgb(170, 193, 202);
+    margin-top: 15%;
+    transition: 1s;
+}
+.atoplogout:hover{
+    color: aliceblue;
+}
+.atopprofile{
+    font-size: 34px;
+    margin-right: 30px;
+    color: rgb(170, 193, 202);
+    margin-top: 15%;
+    transition: 1s;
+}
+.atopprofile:hover{
+    color: aliceblue;
+}
